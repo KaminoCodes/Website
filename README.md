@@ -10,7 +10,7 @@ This is open source because I host it on github-pages and I did not make the web
   </a>
 
 <a href="https://discord.gg/SerCpc56HK/">
-  <img src="https://discord.com/api/guilds/843778346725933088/widget.png?style=banner3" alt="RimBot Support Server" />
+  <img src="https://discord.com/api/guilds/879062532877344898/widget.png?style=banner3" alt="RimBot Support Server" />
   </a>
 
 Website: [RimBot](https://rimbot.pages.dev)
